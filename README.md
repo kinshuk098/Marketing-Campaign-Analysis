@@ -54,10 +54,3 @@ To predict marketing campaign revenue using regression analysis and understand t
 
 ---
 
-## 📂 File Structure
-
-```bash
-📁 regression-marketing-prediction/
-├── final_shop_6modata2.csv
-├── regression_learning.ipynb
-└── README.md
